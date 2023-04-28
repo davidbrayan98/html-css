@@ -22,6 +22,7 @@ header > h1 {
     padding-top: 50px; /* para separar o conteudo do top e ficar mais espacado */
     font-variant: small-caps; /* para deixar todas letras em maiusculo, porem com a primeira maior que as demais */
     font-family: 'Passion one';
+    font-size: 10vw;
 }
 
 header > p {
